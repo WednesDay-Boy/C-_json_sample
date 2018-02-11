@@ -1,0 +1,10 @@
+/Users/Yuki/Desktop/C#/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/Users/Yuki/Desktop/C#/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/Users/Yuki/Desktop/C#/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/Users/Yuki/Desktop/C#/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/Users/Yuki/Desktop/C#/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/Users/Yuki/Desktop/C#/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/Yuki/Desktop/C#/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/Users/Yuki/Desktop/C#/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/Users/Yuki/Desktop/C#/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/Users/Yuki/Desktop/C#/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
