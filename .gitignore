@@ -1,4 +1,4 @@
-WebApi/bin/*
-WebApi/obj/*
-.vscode/*
-WebApi.csproj
+WebApi/get/bin/*
+WebApi/get/obj/*
+WebApi/get/.vscode/*
+WebApi/get/WebApi.csproj
