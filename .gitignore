@@ -1,8 +1,4 @@
-WebApi/get/bin/*
-WebApi/get/obj/*
-WebApi/get/.vscode/*
-WebApi/get/WebApi.csproj
-WebApi/post/client/bin/*
-WebApi/post/client/obj/*
-WebApi/post/client/obj/*
-WebApi/post/client/client.csproj
+WebApi/Client/bin/*
+WebApi/Client/obj/*
+WebApi/Client/client.csproj
+.vscode/*
