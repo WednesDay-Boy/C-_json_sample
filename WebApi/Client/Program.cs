@@ -4,6 +4,7 @@ namespace Client
 {
     using ApiPost;
     using ApiPostAuth;
+    using ApiPostFile;
 
     class Program
     {
@@ -16,6 +17,11 @@ namespace Client
             // ベーシック認証つきのポスト
             ApiPostJsonAuth pa = new ApiPostJsonAuth();
             pa.execute();
+
+            // ファイルアップロード
+            ApiPostCsvFile pf = new ApiPostCsvFile();
+            pf.execute();
+
 
         }
     }
